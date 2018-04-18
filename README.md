@@ -8,9 +8,16 @@ Registered user can upload an image file of a question and system read the image
 
 ## Language and tools
 
--[Laravel](http://www.laravel.com).
--[Tesseract OCR](https://github.com/tesseract-ocr/tesseract).
+- [Laravel](http://www.laravel.com).
+- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract).
 
+
+## Features
+
+- Upload image file of the question.
+- Get the text data from the image file in an order.
+- Answer to the question.
+- Manage user profile.
 
 ## License
 
